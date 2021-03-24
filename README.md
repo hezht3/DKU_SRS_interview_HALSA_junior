@@ -1,14 +1,3 @@
----
-title: "DKU_SRSinterview_task_HALSA_junior"
-author: "Johnathan He"
-date: "2021/3/24"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # DKU SRS interview task for junior students: HALSA
 
 Hi. I would like to again express my thanks for your interests in our group's projects and thanks for taking out time participating in the arranged interview. We are thinking about implicating this short task in the interview for you to know that what your work might be like in the SRS project and for us to better know you, so please take it easy.
