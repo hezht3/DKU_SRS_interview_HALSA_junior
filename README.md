@@ -32,7 +32,7 @@ The task is to generate a Kaplan-Meier survival curve with a risk table. A sampl
 
 ## Notes
 
-The time limit is 25 minutes. It is definately not easy to finish all these tasks in 40 minutes, but let's see how much you can finish in this designated time.
+The time limit is 25 minutes. It is definately not easy to finish all these tasks in 25 minutes, but let's see how much you can finish in this designated time.
 
 We encourage you to use R or Stata in this task. Packages beyond R base or contributed commands for Stata are allowed.
 
